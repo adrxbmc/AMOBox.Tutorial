@@ -18,7 +18,7 @@ Demonstration of a basic repository for kodi (To use as template)
 <img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/1.jpg>
 <img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/2.jpg>
 6. Clone your new repo to your PC.
-7. On your PC edit the folder repository.demo.kodi to the name of your desire as the folder repository.demo.kodi inside repo folder (in my case would be repository.mafarricos.kodi).
+7. On your PC edit the folder repository.demo.kodi to the name of your desire as the folder repository.demo.kodi inside repo folder (in my case would be repository.adrxbmc.kodi).
 8. Edit the addon.xml inside the repository.XXX.kodi
 <img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/3.jpg>
     - In the addon id="XXX" name="YYY" version="0.0.1" provider-name="ZZZ" line change XXX to your new folder name, YYY to your repo name and ZZZ to your nickname.
