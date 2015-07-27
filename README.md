@@ -1,4 +1,4 @@
-Mafarricos-kodi-demo-repo
+AMOBox.Tutorial - Demonstration Tutorial Repository
 =========================
 
 Demonstration of a basic repository for kodi (To use as template)
@@ -13,17 +13,17 @@ Demonstration of a basic repository for kodi (To use as template)
 3. Download and install python for your system<br>
     https://www.python.org/downloads/<br>
 4. Fork this repo:<br>
-    https://github.com/Mafarricos/Mafarricos-kodi-demo-repo/fork
+    https://github.com/adrxbmc/AMOBox.Tutorial/fork
 5. On your forked project go to Settings and change the repository name to what do you want.
-<img src=https://raw.githubusercontent.com/Mafarricos/Mafarricos-kodi-demo-repo/master/imgs/1.jpg>
-<img src=https://raw.githubusercontent.com/Mafarricos/Mafarricos-kodi-demo-repo/master/imgs/2.jpg>
+<img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/1.jpg>
+<img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/2.jpg>
 6. Clone your new repo to your PC.
 7. On your PC edit the folder repository.demo.kodi to the name of your desire as the folder repository.demo.kodi inside repo folder (in my case would be repository.mafarricos.kodi).
 8. Edit the addon.xml inside the repository.XXX.kodi
-<img src=https://raw.githubusercontent.com/Mafarricos/Mafarricos-kodi-demo-repo/master/imgs/3.jpg>
+<img src=https://raw.githubusercontent.com/adrxbmc/AMOBox.Tutorial/master/imgs/3.jpg>
     - In the addon id="XXX" name="YYY" version="0.0.1" provider-name="ZZZ" line change XXX to your new folder name, YYY to your repo name and ZZZ to your nickname.
     - In the extension point="xbmc.addon.repository" name="XXX" line change XXX to your repository name.
-    - On the other lines change the Mafarricos/Mafarricos-kodi-demo-repo to your nick/the new folder name
+    - On the other lines change the adrxbmc/AMOBox.Tutorial to your nick/the new folder name
     - On summary and description you change to what you want.
 9. After this you can put your addons in the root folder, inside the repo folder you should create a folder with the same name of the addon and inside you will put the zip file with the format addonname-addonversion (as you see for the demo repo).
 10. You should do the same to the new repo that you created.
