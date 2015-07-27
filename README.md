@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 AMOBox.Tutorial - Demonstration Tutorial Repository
 =========================
 
@@ -32,4 +31,4 @@ Demonstration of a basic repository for kodi (To use as template)
 12. Push and sync changes on your PC to github and you can share the zip file with your repo and addons.
 =======
 # AMOBox.Tutorial
->>>>>>> origin/master
+
